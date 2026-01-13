@@ -3,3 +3,4 @@ Armstrong
 ##
 linear
 Predict
+MAP Redirect
