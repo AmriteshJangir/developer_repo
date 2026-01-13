@@ -3,4 +3,5 @@ Armstrong
 ##
 linear
 Predict
-MAP Redirect
+MAP.Redirect
+MAP.Inspect
