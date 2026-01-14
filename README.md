@@ -6,4 +6,4 @@ Predict
 MAP.Redirect
 MAP.Inspect
 MAP.enter
-MAP
+MAP.info
